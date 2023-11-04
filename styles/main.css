@@ -1,0 +1,44 @@
+body{
+    background-color: sandybrown;
+}
+
+.nav_ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    margin-bottom: 20px;
+  }
+
+  .nav-link {
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 20px 150px;
+    text-decoration:none;
+    float: left;
+  }
+  
+  .nav_ul :hover {
+    background-color:brown;
+  }
+
+#c1{
+    height: 100px;
+    width:100px;
+}
+.c3 li{
+    
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-bottom: 28px;
+    list-style-type: none;
+    background-color: saddlebrown;
+    padding: 20px;
+    border-radius: 30px;
+    text-align: center;
+  }
+.col-md-4{
+    border: 5px solid black;
+}
